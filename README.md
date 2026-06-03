@@ -31,10 +31,3 @@ The goal of this project is to present my skills, selected projects, contact inf
 - GitHub
 - GitHub Pages
 
-## 📂 Folder Structure
-
-```txt
-ankittsharmma/
-│
-├── index.html
-└── README.md
